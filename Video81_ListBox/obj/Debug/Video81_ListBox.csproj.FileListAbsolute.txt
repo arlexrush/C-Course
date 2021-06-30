@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Video81_ListBox\bin\Debug\Video81_ListBox.exe.config
+C:\Users\Usuario\source\repos\Video81_ListBox\bin\Debug\Video81_ListBox.exe
+C:\Users\Usuario\source\repos\Video81_ListBox\bin\Debug\Video81_ListBox.pdb
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\Video81_ListBox.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\Video81_ListBox_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\Video81_ListBox_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\Video81_ListBox.g.resources
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\Video81_ListBox.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\Video81_ListBox.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\Video81_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\Video81_ListBox.exe
+C:\Users\Usuario\source\repos\Video81_ListBox\obj\Debug\Video81_ListBox.pdb

@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\bin\Debug\net5.0\Video66_Coleections_Stack.exe
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\bin\Debug\net5.0\Video66_Coleections_Stack.deps.json
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\bin\Debug\net5.0\Video66_Coleections_Stack.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\bin\Debug\net5.0\Video66_Coleections_Stack.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\bin\Debug\net5.0\Video66_Coleections_Stack.dll
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\bin\Debug\net5.0\ref\Video66_Coleections_Stack.dll
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\bin\Debug\net5.0\Video66_Coleections_Stack.pdb
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\obj\Debug\net5.0\Video66_Coleections_Stack.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\obj\Debug\net5.0\Video66_Coleections_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\obj\Debug\net5.0\Video66_Coleections_Stack.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\obj\Debug\net5.0\Video66_Coleections_Stack.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\obj\Debug\net5.0\Video66_Coleections_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\obj\Debug\net5.0\Video66_Coleections_Stack.dll
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\obj\Debug\net5.0\ref\Video66_Coleections_Stack.dll
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\obj\Debug\net5.0\Video66_Coleections_Stack.pdb
+C:\Users\Usuario\source\repos\Video66_Coleections_Stack\obj\Debug\net5.0\Video66_Coleections_Stack.genruntimeconfig.cache

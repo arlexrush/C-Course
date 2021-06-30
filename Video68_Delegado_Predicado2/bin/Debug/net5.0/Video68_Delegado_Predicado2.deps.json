@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Video68_Delegado_Predicado2/1.0.0": {
+        "runtime": {
+          "Video68_Delegado_Predicado2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video68_Delegado_Predicado2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

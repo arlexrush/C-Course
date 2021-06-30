@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\bin\Debug\net5.0\Video31_metodos_getter_setter.exe
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\bin\Debug\net5.0\Video31_metodos_getter_setter.deps.json
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\bin\Debug\net5.0\Video31_metodos_getter_setter.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\bin\Debug\net5.0\Video31_metodos_getter_setter.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\bin\Debug\net5.0\Video31_metodos_getter_setter.dll
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\bin\Debug\net5.0\ref\Video31_metodos_getter_setter.dll
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\bin\Debug\net5.0\Video31_metodos_getter_setter.pdb
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\obj\Debug\net5.0\Video31_metodos_getter_setter.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\obj\Debug\net5.0\Video31_metodos_getter_setter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\obj\Debug\net5.0\Video31_metodos_getter_setter.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\obj\Debug\net5.0\Video31_metodos_getter_setter.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\obj\Debug\net5.0\Video31_metodos_getter_setter.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\obj\Debug\net5.0\Video31_metodos_getter_setter.dll
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\obj\Debug\net5.0\ref\Video31_metodos_getter_setter.dll
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\obj\Debug\net5.0\Video31_metodos_getter_setter.pdb
+C:\Users\Usuario\source\repos\Video31_metodos_getter_setter\obj\Debug\net5.0\Video31_metodos_getter_setter.genruntimeconfig.cache

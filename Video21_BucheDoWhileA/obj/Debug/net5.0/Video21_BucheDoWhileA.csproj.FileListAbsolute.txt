@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\bin\Debug\net5.0\Video21_BucheDoWhileA.exe
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\bin\Debug\net5.0\Video21_BucheDoWhileA.deps.json
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\bin\Debug\net5.0\Video21_BucheDoWhileA.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\bin\Debug\net5.0\Video21_BucheDoWhileA.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\bin\Debug\net5.0\Video21_BucheDoWhileA.dll
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\bin\Debug\net5.0\ref\Video21_BucheDoWhileA.dll
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\bin\Debug\net5.0\Video21_BucheDoWhileA.pdb
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\obj\Debug\net5.0\Video21_BucheDoWhileA.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\obj\Debug\net5.0\Video21_BucheDoWhileA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\obj\Debug\net5.0\Video21_BucheDoWhileA.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\obj\Debug\net5.0\Video21_BucheDoWhileA.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\obj\Debug\net5.0\Video21_BucheDoWhileA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\obj\Debug\net5.0\Video21_BucheDoWhileA.dll
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\obj\Debug\net5.0\ref\Video21_BucheDoWhileA.dll
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\obj\Debug\net5.0\Video21_BucheDoWhileA.pdb
+C:\Users\Usuario\source\repos\Video21_BucheDoWhileA\obj\Debug\net5.0\Video21_BucheDoWhileA.genruntimeconfig.cache

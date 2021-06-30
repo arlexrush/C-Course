@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video69_lambda\bin\Debug\net5.0\Video69_lambda.exe
+C:\Users\Usuario\source\repos\Video69_lambda\bin\Debug\net5.0\Video69_lambda.deps.json
+C:\Users\Usuario\source\repos\Video69_lambda\bin\Debug\net5.0\Video69_lambda.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video69_lambda\bin\Debug\net5.0\Video69_lambda.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video69_lambda\bin\Debug\net5.0\Video69_lambda.dll
+C:\Users\Usuario\source\repos\Video69_lambda\bin\Debug\net5.0\ref\Video69_lambda.dll
+C:\Users\Usuario\source\repos\Video69_lambda\bin\Debug\net5.0\Video69_lambda.pdb
+C:\Users\Usuario\source\repos\Video69_lambda\obj\Debug\net5.0\Video69_lambda.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video69_lambda\obj\Debug\net5.0\Video69_lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video69_lambda\obj\Debug\net5.0\Video69_lambda.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video69_lambda\obj\Debug\net5.0\Video69_lambda.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video69_lambda\obj\Debug\net5.0\Video69_lambda.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video69_lambda\obj\Debug\net5.0\Video69_lambda.dll
+C:\Users\Usuario\source\repos\Video69_lambda\obj\Debug\net5.0\ref\Video69_lambda.dll
+C:\Users\Usuario\source\repos\Video69_lambda\obj\Debug\net5.0\Video69_lambda.pdb
+C:\Users\Usuario\source\repos\Video69_lambda\obj\Debug\net5.0\Video69_lambda.genruntimeconfig.cache

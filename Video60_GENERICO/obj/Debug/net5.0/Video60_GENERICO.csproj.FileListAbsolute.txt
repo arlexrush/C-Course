@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video60_GENERICO\bin\Debug\net5.0\Video60_GENERICO.exe
+C:\Users\Usuario\source\repos\Video60_GENERICO\bin\Debug\net5.0\Video60_GENERICO.deps.json
+C:\Users\Usuario\source\repos\Video60_GENERICO\bin\Debug\net5.0\Video60_GENERICO.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video60_GENERICO\bin\Debug\net5.0\Video60_GENERICO.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video60_GENERICO\bin\Debug\net5.0\Video60_GENERICO.dll
+C:\Users\Usuario\source\repos\Video60_GENERICO\bin\Debug\net5.0\ref\Video60_GENERICO.dll
+C:\Users\Usuario\source\repos\Video60_GENERICO\bin\Debug\net5.0\Video60_GENERICO.pdb
+C:\Users\Usuario\source\repos\Video60_GENERICO\obj\Debug\net5.0\Video60_GENERICO.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video60_GENERICO\obj\Debug\net5.0\Video60_GENERICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video60_GENERICO\obj\Debug\net5.0\Video60_GENERICO.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video60_GENERICO\obj\Debug\net5.0\Video60_GENERICO.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video60_GENERICO\obj\Debug\net5.0\Video60_GENERICO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video60_GENERICO\obj\Debug\net5.0\Video60_GENERICO.dll
+C:\Users\Usuario\source\repos\Video60_GENERICO\obj\Debug\net5.0\ref\Video60_GENERICO.dll
+C:\Users\Usuario\source\repos\Video60_GENERICO\obj\Debug\net5.0\Video60_GENERICO.pdb
+C:\Users\Usuario\source\repos\Video60_GENERICO\obj\Debug\net5.0\Video60_GENERICO.genruntimeconfig.cache

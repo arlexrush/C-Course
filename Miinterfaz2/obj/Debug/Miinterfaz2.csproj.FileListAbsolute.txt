@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Miinterfaz2\bin\Debug\Miinterfaz2.exe.config
+C:\Users\Usuario\source\repos\Miinterfaz2\bin\Debug\Miinterfaz2.exe
+C:\Users\Usuario\source\repos\Miinterfaz2\bin\Debug\Miinterfaz2.pdb
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\Miinterfaz2_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\Miinterfaz2_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\Miinterfaz2.g.resources
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\Miinterfaz2.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\Miinterfaz2.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\Miinterfaz2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\Miinterfaz2.exe
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\Miinterfaz2.pdb
+C:\Users\Usuario\source\repos\Miinterfaz2\obj\Debug\Miinterfaz2.csprojAssemblyReference.cache

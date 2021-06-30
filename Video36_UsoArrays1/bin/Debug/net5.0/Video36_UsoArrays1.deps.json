@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Video36_UsoArrays1/1.0.0": {
+        "runtime": {
+          "Video36_UsoArrays1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video36_UsoArrays1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Video86_RadioButton1\bin\Debug\Video86_RadioButton1.exe.config
+C:\Users\Usuario\source\repos\Video86_RadioButton1\bin\Debug\Video86_RadioButton1.exe
+C:\Users\Usuario\source\repos\Video86_RadioButton1\bin\Debug\Video86_RadioButton1.pdb
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\Video86_RadioButton1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\Video86_RadioButton1_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\Video86_RadioButton1_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\Video86_RadioButton1.g.resources
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\Video86_RadioButton1.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\Video86_RadioButton1.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\Video86_RadioButton1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\Video86_RadioButton1.exe
+C:\Users\Usuario\source\repos\Video86_RadioButton1\obj\Debug\Video86_RadioButton1.pdb

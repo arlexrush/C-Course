@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\bin\Debug\net5.0\Video67_Collection_Dictionary.exe
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\bin\Debug\net5.0\Video67_Collection_Dictionary.deps.json
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\bin\Debug\net5.0\Video67_Collection_Dictionary.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\bin\Debug\net5.0\Video67_Collection_Dictionary.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\bin\Debug\net5.0\Video67_Collection_Dictionary.dll
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\bin\Debug\net5.0\ref\Video67_Collection_Dictionary.dll
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\bin\Debug\net5.0\Video67_Collection_Dictionary.pdb
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\obj\Debug\net5.0\Video67_Collection_Dictionary.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\obj\Debug\net5.0\Video67_Collection_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\obj\Debug\net5.0\Video67_Collection_Dictionary.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\obj\Debug\net5.0\Video67_Collection_Dictionary.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\obj\Debug\net5.0\Video67_Collection_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\obj\Debug\net5.0\Video67_Collection_Dictionary.dll
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\obj\Debug\net5.0\ref\Video67_Collection_Dictionary.dll
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\obj\Debug\net5.0\Video67_Collection_Dictionary.pdb
+C:\Users\Usuario\source\repos\Video67_Collection_Dictionary\obj\Debug\net5.0\Video67_Collection_Dictionary.genruntimeconfig.cache

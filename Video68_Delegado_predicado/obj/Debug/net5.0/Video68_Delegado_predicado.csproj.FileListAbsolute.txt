@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\bin\Debug\net5.0\Video68_Delegado_predicado.exe
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\bin\Debug\net5.0\Video68_Delegado_predicado.deps.json
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\bin\Debug\net5.0\Video68_Delegado_predicado.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\bin\Debug\net5.0\Video68_Delegado_predicado.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\bin\Debug\net5.0\Video68_Delegado_predicado.dll
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\bin\Debug\net5.0\ref\Video68_Delegado_predicado.dll
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\bin\Debug\net5.0\Video68_Delegado_predicado.pdb
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\obj\Debug\net5.0\Video68_Delegado_predicado.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\obj\Debug\net5.0\Video68_Delegado_predicado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\obj\Debug\net5.0\Video68_Delegado_predicado.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\obj\Debug\net5.0\Video68_Delegado_predicado.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\obj\Debug\net5.0\Video68_Delegado_predicado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\obj\Debug\net5.0\Video68_Delegado_predicado.dll
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\obj\Debug\net5.0\ref\Video68_Delegado_predicado.dll
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\obj\Debug\net5.0\Video68_Delegado_predicado.pdb
+C:\Users\Usuario\source\repos\Video68_Delegado_predicado\obj\Debug\net5.0\Video68_Delegado_predicado.genruntimeconfig.cache

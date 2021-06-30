@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Video32_ConceptosPOO/1.0.0": {
+        "runtime": {
+          "Video32_ConceptosPOO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video32_ConceptosPOO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

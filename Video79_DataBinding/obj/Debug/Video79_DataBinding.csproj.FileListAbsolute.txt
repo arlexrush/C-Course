@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Video79_DataBinding\bin\Debug\Video79_DataBinding.exe.config
+C:\Users\Usuario\source\repos\Video79_DataBinding\bin\Debug\Video79_DataBinding.exe
+C:\Users\Usuario\source\repos\Video79_DataBinding\bin\Debug\Video79_DataBinding.pdb
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\Video79_DataBinding.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\Video79_DataBinding_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\Video79_DataBinding_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\Video79_DataBinding.g.resources
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\Video79_DataBinding.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\Video79_DataBinding.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\Video79_DataBinding.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\Video79_DataBinding.exe
+C:\Users\Usuario\source\repos\Video79_DataBinding\obj\Debug\Video79_DataBinding.pdb

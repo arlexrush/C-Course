@@ -1,0 +1,52 @@
+﻿<Window x:Class="Video86_RadioButton1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Video86_RadioButton1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <StackPanel>
+                <TextBlock FontSize="45" TextAlignment="Center" Foreground="OrangeRed" FontWeight="Black" Focusable="True">SEMAFORO</TextBlock>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0">
+                <Label Margin="40 20 100 5" FontSize="15" FontWeight="ExtraBlack">Colores de Semaforo</Label>
+
+                <RadioButton Margin="50 1 100 2" FontWeight="Bold" Click="RadioButton_Click">
+                    <TextBlock Text="Amarillo" ></TextBlock>
+                </RadioButton>
+                
+                <RadioButton Margin="50 1 100 2" FontWeight="Bold" Click="RadioButton_Click_1">
+                    <TextBlock Text="Azul"></TextBlock>
+                </RadioButton>
+                
+                <RadioButton Margin="50 1 100 2" FontWeight="Bold" Click="RadioButton_Click_2">
+                    <TextBlock Text="Rojo"></TextBlock>
+                </RadioButton>
+
+            </StackPanel>
+            <Grid Grid.Column="1">
+                
+                <Canvas>
+                    <Image Source="C:\Users\Usuario\Pictures\semaforo-19268.jpg" Canvas.Left="105" Canvas.Top="4" Height="260" />
+                    <Ellipse Name="Amarillo" Width="45" Height="45" Fill="Yellow" Canvas.Left="175" Canvas.Top="20" Visibility="Hidden" ></Ellipse>
+                    <Ellipse Name="Azul" Width="45" Height="45" Fill="Blue" Canvas.Left="175" Canvas.Top="67" Visibility="Hidden"></Ellipse>
+                    <Ellipse Name="Rojo" Width="45" Height="45" Fill="Red" Canvas.Left="175" Canvas.Top="114" Visibility="Hidden"></Ellipse>
+                </Canvas>
+            </Grid>
+        </Grid>
+    </Grid>
+
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\bin\Debug\net5.0\Video70_ExpresionesRegulares.exe
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\bin\Debug\net5.0\Video70_ExpresionesRegulares.deps.json
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\bin\Debug\net5.0\Video70_ExpresionesRegulares.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\bin\Debug\net5.0\Video70_ExpresionesRegulares.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\bin\Debug\net5.0\Video70_ExpresionesRegulares.dll
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\bin\Debug\net5.0\ref\Video70_ExpresionesRegulares.dll
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\bin\Debug\net5.0\Video70_ExpresionesRegulares.pdb
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\obj\Debug\net5.0\Video70_ExpresionesRegulares.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\obj\Debug\net5.0\Video70_ExpresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\obj\Debug\net5.0\Video70_ExpresionesRegulares.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\obj\Debug\net5.0\Video70_ExpresionesRegulares.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\obj\Debug\net5.0\Video70_ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\obj\Debug\net5.0\Video70_ExpresionesRegulares.dll
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\obj\Debug\net5.0\ref\Video70_ExpresionesRegulares.dll
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\obj\Debug\net5.0\Video70_ExpresionesRegulares.pdb
+C:\Users\Usuario\source\repos\Video70_ExpresionesRegulares\obj\Debug\net5.0\Video70_ExpresionesRegulares.genruntimeconfig.cache

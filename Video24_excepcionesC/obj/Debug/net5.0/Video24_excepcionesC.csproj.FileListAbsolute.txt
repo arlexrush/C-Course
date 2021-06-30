@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video24_excepcionesC\bin\Debug\net5.0\Video24_excepcionesC.exe
+C:\Users\Usuario\source\repos\Video24_excepcionesC\bin\Debug\net5.0\Video24_excepcionesC.deps.json
+C:\Users\Usuario\source\repos\Video24_excepcionesC\bin\Debug\net5.0\Video24_excepcionesC.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video24_excepcionesC\bin\Debug\net5.0\Video24_excepcionesC.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video24_excepcionesC\bin\Debug\net5.0\Video24_excepcionesC.dll
+C:\Users\Usuario\source\repos\Video24_excepcionesC\bin\Debug\net5.0\ref\Video24_excepcionesC.dll
+C:\Users\Usuario\source\repos\Video24_excepcionesC\bin\Debug\net5.0\Video24_excepcionesC.pdb
+C:\Users\Usuario\source\repos\Video24_excepcionesC\obj\Debug\net5.0\Video24_excepcionesC.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video24_excepcionesC\obj\Debug\net5.0\Video24_excepcionesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video24_excepcionesC\obj\Debug\net5.0\Video24_excepcionesC.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video24_excepcionesC\obj\Debug\net5.0\Video24_excepcionesC.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video24_excepcionesC\obj\Debug\net5.0\Video24_excepcionesC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video24_excepcionesC\obj\Debug\net5.0\Video24_excepcionesC.dll
+C:\Users\Usuario\source\repos\Video24_excepcionesC\obj\Debug\net5.0\ref\Video24_excepcionesC.dll
+C:\Users\Usuario\source\repos\Video24_excepcionesC\obj\Debug\net5.0\Video24_excepcionesC.pdb
+C:\Users\Usuario\source\repos\Video24_excepcionesC\obj\Debug\net5.0\Video24_excepcionesC.genruntimeconfig.cache

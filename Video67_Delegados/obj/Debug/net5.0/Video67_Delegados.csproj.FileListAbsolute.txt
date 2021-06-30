@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video67_Delegados\bin\Debug\net5.0\Video67_Delegados.exe
+C:\Users\Usuario\source\repos\Video67_Delegados\bin\Debug\net5.0\Video67_Delegados.deps.json
+C:\Users\Usuario\source\repos\Video67_Delegados\bin\Debug\net5.0\Video67_Delegados.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video67_Delegados\bin\Debug\net5.0\Video67_Delegados.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video67_Delegados\bin\Debug\net5.0\Video67_Delegados.dll
+C:\Users\Usuario\source\repos\Video67_Delegados\bin\Debug\net5.0\ref\Video67_Delegados.dll
+C:\Users\Usuario\source\repos\Video67_Delegados\bin\Debug\net5.0\Video67_Delegados.pdb
+C:\Users\Usuario\source\repos\Video67_Delegados\obj\Debug\net5.0\Video67_Delegados.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video67_Delegados\obj\Debug\net5.0\Video67_Delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video67_Delegados\obj\Debug\net5.0\Video67_Delegados.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video67_Delegados\obj\Debug\net5.0\Video67_Delegados.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video67_Delegados\obj\Debug\net5.0\Video67_Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video67_Delegados\obj\Debug\net5.0\Video67_Delegados.dll
+C:\Users\Usuario\source\repos\Video67_Delegados\obj\Debug\net5.0\ref\Video67_Delegados.dll
+C:\Users\Usuario\source\repos\Video67_Delegados\obj\Debug\net5.0\Video67_Delegados.pdb
+C:\Users\Usuario\source\repos\Video67_Delegados\obj\Debug\net5.0\Video67_Delegados.genruntimeconfig.cache

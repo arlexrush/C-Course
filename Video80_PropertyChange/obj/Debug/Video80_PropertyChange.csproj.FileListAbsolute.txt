@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Video80_PropertyChange\bin\Debug\Video80_PropertyChange.exe.config
+C:\Users\Usuario\source\repos\Video80_PropertyChange\bin\Debug\Video80_PropertyChange.exe
+C:\Users\Usuario\source\repos\Video80_PropertyChange\bin\Debug\Video80_PropertyChange.pdb
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\Video80_PropertyChange.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\Video80_PropertyChange_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\Video80_PropertyChange_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\Video80_PropertyChange.g.resources
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\Video80_PropertyChange.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\Video80_PropertyChange.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\Video80_PropertyChange.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\Video80_PropertyChange.exe
+C:\Users\Usuario\source\repos\Video80_PropertyChange\obj\Debug\Video80_PropertyChange.pdb

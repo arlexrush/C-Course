@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video19_BuclesA\bin\Debug\net5.0\Video19_BuclesA.exe
+C:\Users\Usuario\source\repos\Video19_BuclesA\bin\Debug\net5.0\Video19_BuclesA.deps.json
+C:\Users\Usuario\source\repos\Video19_BuclesA\bin\Debug\net5.0\Video19_BuclesA.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video19_BuclesA\bin\Debug\net5.0\Video19_BuclesA.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video19_BuclesA\bin\Debug\net5.0\Video19_BuclesA.dll
+C:\Users\Usuario\source\repos\Video19_BuclesA\bin\Debug\net5.0\ref\Video19_BuclesA.dll
+C:\Users\Usuario\source\repos\Video19_BuclesA\bin\Debug\net5.0\Video19_BuclesA.pdb
+C:\Users\Usuario\source\repos\Video19_BuclesA\obj\Debug\net5.0\Video19_BuclesA.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video19_BuclesA\obj\Debug\net5.0\Video19_BuclesA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video19_BuclesA\obj\Debug\net5.0\Video19_BuclesA.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video19_BuclesA\obj\Debug\net5.0\Video19_BuclesA.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video19_BuclesA\obj\Debug\net5.0\Video19_BuclesA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video19_BuclesA\obj\Debug\net5.0\Video19_BuclesA.dll
+C:\Users\Usuario\source\repos\Video19_BuclesA\obj\Debug\net5.0\ref\Video19_BuclesA.dll
+C:\Users\Usuario\source\repos\Video19_BuclesA\obj\Debug\net5.0\Video19_BuclesA.pdb
+C:\Users\Usuario\source\repos\Video19_BuclesA\obj\Debug\net5.0\Video19_BuclesA.genruntimeconfig.cache

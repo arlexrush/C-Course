@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Video67_Collection_Dictionary/1.0.0": {
+        "runtime": {
+          "Video67_Collection_Dictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video67_Collection_Dictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

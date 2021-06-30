@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video19_switchA\bin\Debug\net5.0\Video19_switchA.exe
+C:\Users\Usuario\source\repos\Video19_switchA\bin\Debug\net5.0\Video19_switchA.deps.json
+C:\Users\Usuario\source\repos\Video19_switchA\bin\Debug\net5.0\Video19_switchA.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video19_switchA\bin\Debug\net5.0\Video19_switchA.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video19_switchA\bin\Debug\net5.0\Video19_switchA.dll
+C:\Users\Usuario\source\repos\Video19_switchA\bin\Debug\net5.0\ref\Video19_switchA.dll
+C:\Users\Usuario\source\repos\Video19_switchA\bin\Debug\net5.0\Video19_switchA.pdb
+C:\Users\Usuario\source\repos\Video19_switchA\obj\Debug\net5.0\Video19_switchA.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video19_switchA\obj\Debug\net5.0\Video19_switchA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video19_switchA\obj\Debug\net5.0\Video19_switchA.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video19_switchA\obj\Debug\net5.0\Video19_switchA.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video19_switchA\obj\Debug\net5.0\Video19_switchA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video19_switchA\obj\Debug\net5.0\Video19_switchA.dll
+C:\Users\Usuario\source\repos\Video19_switchA\obj\Debug\net5.0\ref\Video19_switchA.dll
+C:\Users\Usuario\source\repos\Video19_switchA\obj\Debug\net5.0\Video19_switchA.pdb
+C:\Users\Usuario\source\repos\Video19_switchA\obj\Debug\net5.0\Video19_switchA.genruntimeconfig.cache

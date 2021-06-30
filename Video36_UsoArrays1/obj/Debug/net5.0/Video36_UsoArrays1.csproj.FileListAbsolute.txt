@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\bin\Debug\net5.0\Video36_UsoArrays1.exe
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\bin\Debug\net5.0\Video36_UsoArrays1.deps.json
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\bin\Debug\net5.0\Video36_UsoArrays1.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\bin\Debug\net5.0\Video36_UsoArrays1.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\bin\Debug\net5.0\Video36_UsoArrays1.dll
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\bin\Debug\net5.0\ref\Video36_UsoArrays1.dll
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\bin\Debug\net5.0\Video36_UsoArrays1.pdb
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\obj\Debug\net5.0\Video36_UsoArrays1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\obj\Debug\net5.0\Video36_UsoArrays1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\obj\Debug\net5.0\Video36_UsoArrays1.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\obj\Debug\net5.0\Video36_UsoArrays1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\obj\Debug\net5.0\Video36_UsoArrays1.dll
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\obj\Debug\net5.0\ref\Video36_UsoArrays1.dll
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\obj\Debug\net5.0\Video36_UsoArrays1.pdb
+C:\Users\Usuario\source\repos\Video36_UsoArrays1\obj\Debug\net5.0\Video36_UsoArrays1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video58_Enum\bin\Debug\net5.0\Video58_Enum.exe
+C:\Users\Usuario\source\repos\Video58_Enum\bin\Debug\net5.0\Video58_Enum.deps.json
+C:\Users\Usuario\source\repos\Video58_Enum\bin\Debug\net5.0\Video58_Enum.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video58_Enum\bin\Debug\net5.0\Video58_Enum.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video58_Enum\bin\Debug\net5.0\Video58_Enum.dll
+C:\Users\Usuario\source\repos\Video58_Enum\bin\Debug\net5.0\ref\Video58_Enum.dll
+C:\Users\Usuario\source\repos\Video58_Enum\bin\Debug\net5.0\Video58_Enum.pdb
+C:\Users\Usuario\source\repos\Video58_Enum\obj\Debug\net5.0\Video58_Enum.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video58_Enum\obj\Debug\net5.0\Video58_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video58_Enum\obj\Debug\net5.0\Video58_Enum.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video58_Enum\obj\Debug\net5.0\Video58_Enum.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video58_Enum\obj\Debug\net5.0\Video58_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video58_Enum\obj\Debug\net5.0\Video58_Enum.dll
+C:\Users\Usuario\source\repos\Video58_Enum\obj\Debug\net5.0\ref\Video58_Enum.dll
+C:\Users\Usuario\source\repos\Video58_Enum\obj\Debug\net5.0\Video58_Enum.pdb
+C:\Users\Usuario\source\repos\Video58_Enum\obj\Debug\net5.0\Video58_Enum.genruntimeconfig.cache

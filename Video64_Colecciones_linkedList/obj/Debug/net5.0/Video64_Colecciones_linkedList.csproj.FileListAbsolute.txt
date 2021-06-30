@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\bin\Debug\net5.0\Video64_Colecciones_linkedList.exe
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\bin\Debug\net5.0\Video64_Colecciones_linkedList.deps.json
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\bin\Debug\net5.0\Video64_Colecciones_linkedList.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\bin\Debug\net5.0\Video64_Colecciones_linkedList.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\bin\Debug\net5.0\Video64_Colecciones_linkedList.dll
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\bin\Debug\net5.0\ref\Video64_Colecciones_linkedList.dll
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\bin\Debug\net5.0\Video64_Colecciones_linkedList.pdb
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\obj\Debug\net5.0\Video64_Colecciones_linkedList.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\obj\Debug\net5.0\Video64_Colecciones_linkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\obj\Debug\net5.0\Video64_Colecciones_linkedList.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\obj\Debug\net5.0\Video64_Colecciones_linkedList.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\obj\Debug\net5.0\Video64_Colecciones_linkedList.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\obj\Debug\net5.0\Video64_Colecciones_linkedList.dll
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\obj\Debug\net5.0\ref\Video64_Colecciones_linkedList.dll
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\obj\Debug\net5.0\Video64_Colecciones_linkedList.pdb
+C:\Users\Usuario\source\repos\Video64_Colecciones_linkedList\obj\Debug\net5.0\Video64_Colecciones_linkedList.genruntimeconfig.cache

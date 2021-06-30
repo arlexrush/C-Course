@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\POO\bin\Debug\net5.0\POO.exe
+C:\Users\Usuario\source\repos\POO\bin\Debug\net5.0\POO.deps.json
+C:\Users\Usuario\source\repos\POO\bin\Debug\net5.0\POO.runtimeconfig.json
+C:\Users\Usuario\source\repos\POO\bin\Debug\net5.0\POO.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\POO\bin\Debug\net5.0\POO.dll
+C:\Users\Usuario\source\repos\POO\bin\Debug\net5.0\ref\POO.dll
+C:\Users\Usuario\source\repos\POO\bin\Debug\net5.0\POO.pdb
+C:\Users\Usuario\source\repos\POO\obj\Debug\net5.0\POO.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\POO\obj\Debug\net5.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\POO\obj\Debug\net5.0\POO.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\POO\obj\Debug\net5.0\POO.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\POO\obj\Debug\net5.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\POO\obj\Debug\net5.0\POO.dll
+C:\Users\Usuario\source\repos\POO\obj\Debug\net5.0\ref\POO.dll
+C:\Users\Usuario\source\repos\POO\obj\Debug\net5.0\POO.pdb
+C:\Users\Usuario\source\repos\POO\obj\Debug\net5.0\POO.genruntimeconfig.cache

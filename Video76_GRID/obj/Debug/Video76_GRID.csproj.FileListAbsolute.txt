@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Video76_GRID\bin\Debug\Video76_GRID.exe.config
+C:\Users\Usuario\source\repos\Video76_GRID\bin\Debug\Video76_GRID.exe
+C:\Users\Usuario\source\repos\Video76_GRID\bin\Debug\Video76_GRID.pdb
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\Video76_GRID_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\Video76_GRID_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\Video76_GRID.g.resources
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\Video76_GRID.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\Video76_GRID.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\Video76_GRID.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\Video76_GRID.exe
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\Video76_GRID.pdb
+C:\Users\Usuario\source\repos\Video76_GRID\obj\Debug\Video76_GRID.csprojAssemblyReference.cache

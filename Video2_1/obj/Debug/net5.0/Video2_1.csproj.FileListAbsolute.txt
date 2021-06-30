@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video2_1\bin\Debug\net5.0\Video2_1.exe
+C:\Users\Usuario\source\repos\Video2_1\bin\Debug\net5.0\Video2_1.deps.json
+C:\Users\Usuario\source\repos\Video2_1\bin\Debug\net5.0\Video2_1.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video2_1\bin\Debug\net5.0\Video2_1.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video2_1\bin\Debug\net5.0\Video2_1.dll
+C:\Users\Usuario\source\repos\Video2_1\bin\Debug\net5.0\ref\Video2_1.dll
+C:\Users\Usuario\source\repos\Video2_1\bin\Debug\net5.0\Video2_1.pdb
+C:\Users\Usuario\source\repos\Video2_1\obj\Debug\net5.0\Video2_1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video2_1\obj\Debug\net5.0\Video2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video2_1\obj\Debug\net5.0\Video2_1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video2_1\obj\Debug\net5.0\Video2_1.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video2_1\obj\Debug\net5.0\Video2_1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video2_1\obj\Debug\net5.0\Video2_1.dll
+C:\Users\Usuario\source\repos\Video2_1\obj\Debug\net5.0\ref\Video2_1.dll
+C:\Users\Usuario\source\repos\Video2_1\obj\Debug\net5.0\Video2_1.pdb
+C:\Users\Usuario\source\repos\Video2_1\obj\Debug\net5.0\Video2_1.genruntimeconfig.cache

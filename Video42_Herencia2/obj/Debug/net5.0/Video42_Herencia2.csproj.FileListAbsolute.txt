@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video42_Herencia2\bin\Debug\net5.0\Video42_Herencia2.exe
+C:\Users\Usuario\source\repos\Video42_Herencia2\bin\Debug\net5.0\Video42_Herencia2.deps.json
+C:\Users\Usuario\source\repos\Video42_Herencia2\bin\Debug\net5.0\Video42_Herencia2.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video42_Herencia2\bin\Debug\net5.0\Video42_Herencia2.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video42_Herencia2\bin\Debug\net5.0\Video42_Herencia2.dll
+C:\Users\Usuario\source\repos\Video42_Herencia2\bin\Debug\net5.0\ref\Video42_Herencia2.dll
+C:\Users\Usuario\source\repos\Video42_Herencia2\bin\Debug\net5.0\Video42_Herencia2.pdb
+C:\Users\Usuario\source\repos\Video42_Herencia2\obj\Debug\net5.0\Video42_Herencia2.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video42_Herencia2\obj\Debug\net5.0\Video42_Herencia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video42_Herencia2\obj\Debug\net5.0\Video42_Herencia2.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video42_Herencia2\obj\Debug\net5.0\Video42_Herencia2.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video42_Herencia2\obj\Debug\net5.0\Video42_Herencia2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video42_Herencia2\obj\Debug\net5.0\Video42_Herencia2.dll
+C:\Users\Usuario\source\repos\Video42_Herencia2\obj\Debug\net5.0\ref\Video42_Herencia2.dll
+C:\Users\Usuario\source\repos\Video42_Herencia2\obj\Debug\net5.0\Video42_Herencia2.pdb
+C:\Users\Usuario\source\repos\Video42_Herencia2\obj\Debug\net5.0\Video42_Herencia2.genruntimeconfig.cache

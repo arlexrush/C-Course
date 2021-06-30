@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Video66_Coleections_Stack/1.0.0": {
+        "runtime": {
+          "Video66_Coleections_Stack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video66_Coleections_Stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

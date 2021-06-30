@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\TareaHerencia\bin\Debug\net5.0\TareaHerencia.exe
+C:\Users\Usuario\source\repos\TareaHerencia\bin\Debug\net5.0\TareaHerencia.deps.json
+C:\Users\Usuario\source\repos\TareaHerencia\bin\Debug\net5.0\TareaHerencia.runtimeconfig.json
+C:\Users\Usuario\source\repos\TareaHerencia\bin\Debug\net5.0\TareaHerencia.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\TareaHerencia\bin\Debug\net5.0\TareaHerencia.dll
+C:\Users\Usuario\source\repos\TareaHerencia\bin\Debug\net5.0\ref\TareaHerencia.dll
+C:\Users\Usuario\source\repos\TareaHerencia\bin\Debug\net5.0\TareaHerencia.pdb
+C:\Users\Usuario\source\repos\TareaHerencia\obj\Debug\net5.0\TareaHerencia.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TareaHerencia\obj\Debug\net5.0\TareaHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TareaHerencia\obj\Debug\net5.0\TareaHerencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TareaHerencia\obj\Debug\net5.0\TareaHerencia.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TareaHerencia\obj\Debug\net5.0\TareaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TareaHerencia\obj\Debug\net5.0\TareaHerencia.dll
+C:\Users\Usuario\source\repos\TareaHerencia\obj\Debug\net5.0\ref\TareaHerencia.dll
+C:\Users\Usuario\source\repos\TareaHerencia\obj\Debug\net5.0\TareaHerencia.pdb
+C:\Users\Usuario\source\repos\TareaHerencia\obj\Debug\net5.0\TareaHerencia.genruntimeconfig.cache

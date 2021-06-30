@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video40_UsoArray4\bin\Debug\net5.0\Video40_UsoArray4.exe
+C:\Users\Usuario\source\repos\Video40_UsoArray4\bin\Debug\net5.0\Video40_UsoArray4.deps.json
+C:\Users\Usuario\source\repos\Video40_UsoArray4\bin\Debug\net5.0\Video40_UsoArray4.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video40_UsoArray4\bin\Debug\net5.0\Video40_UsoArray4.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video40_UsoArray4\bin\Debug\net5.0\Video40_UsoArray4.dll
+C:\Users\Usuario\source\repos\Video40_UsoArray4\bin\Debug\net5.0\ref\Video40_UsoArray4.dll
+C:\Users\Usuario\source\repos\Video40_UsoArray4\bin\Debug\net5.0\Video40_UsoArray4.pdb
+C:\Users\Usuario\source\repos\Video40_UsoArray4\obj\Debug\net5.0\Video40_UsoArray4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video40_UsoArray4\obj\Debug\net5.0\Video40_UsoArray4.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video40_UsoArray4\obj\Debug\net5.0\Video40_UsoArray4.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video40_UsoArray4\obj\Debug\net5.0\Video40_UsoArray4.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video40_UsoArray4\obj\Debug\net5.0\Video40_UsoArray4.dll
+C:\Users\Usuario\source\repos\Video40_UsoArray4\obj\Debug\net5.0\ref\Video40_UsoArray4.dll
+C:\Users\Usuario\source\repos\Video40_UsoArray4\obj\Debug\net5.0\Video40_UsoArray4.pdb
+C:\Users\Usuario\source\repos\Video40_UsoArray4\obj\Debug\net5.0\Video40_UsoArray4.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Video40_UsoArray4\obj\Debug\net5.0\Video40_UsoArray4.csprojAssemblyReference.cache

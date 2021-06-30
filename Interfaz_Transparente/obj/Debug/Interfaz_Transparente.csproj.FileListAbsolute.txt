@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Interfaz_Transparente\bin\Debug\Interfaz_Transparente.exe.config
+C:\Users\Usuario\source\repos\Interfaz_Transparente\bin\Debug\Interfaz_Transparente.exe
+C:\Users\Usuario\source\repos\Interfaz_Transparente\bin\Debug\Interfaz_Transparente.pdb
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\Interfaz_Transparente.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\Interfaz_Transparente_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\Interfaz_Transparente_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\Interfaz_Transparente.g.resources
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\Interfaz_Transparente.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\Interfaz_Transparente.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\Interfaz_Transparente.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\Interfaz_Transparente.exe
+C:\Users\Usuario\source\repos\Interfaz_Transparente\obj\Debug\Interfaz_Transparente.pdb

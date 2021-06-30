@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video26_finally\obj\Debug\net5.0\Video26_finally.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video26_finally\obj\Debug\net5.0\Video26_finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video26_finally\obj\Debug\net5.0\Video26_finally.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video26_finally\obj\Debug\net5.0\Video26_finally.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video26_finally\obj\Debug\net5.0\Video26_finally.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video26_finally\bin\Debug\net5.0\Video26_finally.exe
+C:\Users\Usuario\source\repos\Video26_finally\bin\Debug\net5.0\Video26_finally.deps.json
+C:\Users\Usuario\source\repos\Video26_finally\bin\Debug\net5.0\Video26_finally.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video26_finally\bin\Debug\net5.0\Video26_finally.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video26_finally\bin\Debug\net5.0\Video26_finally.dll
+C:\Users\Usuario\source\repos\Video26_finally\bin\Debug\net5.0\ref\Video26_finally.dll
+C:\Users\Usuario\source\repos\Video26_finally\bin\Debug\net5.0\Video26_finally.pdb
+C:\Users\Usuario\source\repos\Video26_finally\obj\Debug\net5.0\Video26_finally.dll
+C:\Users\Usuario\source\repos\Video26_finally\obj\Debug\net5.0\ref\Video26_finally.dll
+C:\Users\Usuario\source\repos\Video26_finally\obj\Debug\net5.0\Video26_finally.pdb
+C:\Users\Usuario\source\repos\Video26_finally\obj\Debug\net5.0\Video26_finally.genruntimeconfig.cache

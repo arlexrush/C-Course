@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video30_Constructores\bin\Debug\net5.0\Video30_Constructores.exe
+C:\Users\Usuario\source\repos\Video30_Constructores\bin\Debug\net5.0\Video30_Constructores.deps.json
+C:\Users\Usuario\source\repos\Video30_Constructores\bin\Debug\net5.0\Video30_Constructores.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video30_Constructores\bin\Debug\net5.0\Video30_Constructores.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video30_Constructores\bin\Debug\net5.0\Video30_Constructores.dll
+C:\Users\Usuario\source\repos\Video30_Constructores\bin\Debug\net5.0\ref\Video30_Constructores.dll
+C:\Users\Usuario\source\repos\Video30_Constructores\bin\Debug\net5.0\Video30_Constructores.pdb
+C:\Users\Usuario\source\repos\Video30_Constructores\obj\Debug\net5.0\Video30_Constructores.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video30_Constructores\obj\Debug\net5.0\Video30_Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video30_Constructores\obj\Debug\net5.0\Video30_Constructores.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video30_Constructores\obj\Debug\net5.0\Video30_Constructores.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video30_Constructores\obj\Debug\net5.0\Video30_Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video30_Constructores\obj\Debug\net5.0\Video30_Constructores.dll
+C:\Users\Usuario\source\repos\Video30_Constructores\obj\Debug\net5.0\ref\Video30_Constructores.dll
+C:\Users\Usuario\source\repos\Video30_Constructores\obj\Debug\net5.0\Video30_Constructores.pdb
+C:\Users\Usuario\source\repos\Video30_Constructores\obj\Debug\net5.0\Video30_Constructores.genruntimeconfig.cache

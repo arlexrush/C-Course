@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\EjerciciosPOO1\obj\Debug\net5.0\EjerciciosPOO1.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\EjerciciosPOO1\obj\Debug\net5.0\EjerciciosPOO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjerciciosPOO1\obj\Debug\net5.0\EjerciciosPOO1.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosPOO1\obj\Debug\net5.0\EjerciciosPOO1.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjerciciosPOO1\obj\Debug\net5.0\EjerciciosPOO1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjerciciosPOO1\bin\Debug\net5.0\EjerciciosPOO1.exe
+C:\Users\Usuario\source\repos\EjerciciosPOO1\bin\Debug\net5.0\EjerciciosPOO1.deps.json
+C:\Users\Usuario\source\repos\EjerciciosPOO1\bin\Debug\net5.0\EjerciciosPOO1.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjerciciosPOO1\bin\Debug\net5.0\EjerciciosPOO1.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\EjerciciosPOO1\bin\Debug\net5.0\EjerciciosPOO1.dll
+C:\Users\Usuario\source\repos\EjerciciosPOO1\bin\Debug\net5.0\ref\EjerciciosPOO1.dll
+C:\Users\Usuario\source\repos\EjerciciosPOO1\bin\Debug\net5.0\EjerciciosPOO1.pdb
+C:\Users\Usuario\source\repos\EjerciciosPOO1\obj\Debug\net5.0\EjerciciosPOO1.dll
+C:\Users\Usuario\source\repos\EjerciciosPOO1\obj\Debug\net5.0\ref\EjerciciosPOO1.dll
+C:\Users\Usuario\source\repos\EjerciciosPOO1\obj\Debug\net5.0\EjerciciosPOO1.pdb
+C:\Users\Usuario\source\repos\EjerciciosPOO1\obj\Debug\net5.0\EjerciciosPOO1.genruntimeconfig.cache

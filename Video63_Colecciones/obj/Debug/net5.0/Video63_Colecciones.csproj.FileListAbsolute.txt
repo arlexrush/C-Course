@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video63_Colecciones\bin\Debug\net5.0\Video63_Colecciones.exe
+C:\Users\Usuario\source\repos\Video63_Colecciones\bin\Debug\net5.0\Video63_Colecciones.deps.json
+C:\Users\Usuario\source\repos\Video63_Colecciones\bin\Debug\net5.0\Video63_Colecciones.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video63_Colecciones\bin\Debug\net5.0\Video63_Colecciones.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video63_Colecciones\bin\Debug\net5.0\Video63_Colecciones.dll
+C:\Users\Usuario\source\repos\Video63_Colecciones\bin\Debug\net5.0\ref\Video63_Colecciones.dll
+C:\Users\Usuario\source\repos\Video63_Colecciones\bin\Debug\net5.0\Video63_Colecciones.pdb
+C:\Users\Usuario\source\repos\Video63_Colecciones\obj\Debug\net5.0\Video63_Colecciones.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video63_Colecciones\obj\Debug\net5.0\Video63_Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video63_Colecciones\obj\Debug\net5.0\Video63_Colecciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video63_Colecciones\obj\Debug\net5.0\Video63_Colecciones.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video63_Colecciones\obj\Debug\net5.0\Video63_Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video63_Colecciones\obj\Debug\net5.0\Video63_Colecciones.dll
+C:\Users\Usuario\source\repos\Video63_Colecciones\obj\Debug\net5.0\ref\Video63_Colecciones.dll
+C:\Users\Usuario\source\repos\Video63_Colecciones\obj\Debug\net5.0\Video63_Colecciones.pdb
+C:\Users\Usuario\source\repos\Video63_Colecciones\obj\Debug\net5.0\Video63_Colecciones.genruntimeconfig.cache

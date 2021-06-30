@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video16_If3C\bin\Debug\net5.0\Video16_If3C.exe
+C:\Users\Usuario\source\repos\Video16_If3C\bin\Debug\net5.0\Video16_If3C.deps.json
+C:\Users\Usuario\source\repos\Video16_If3C\bin\Debug\net5.0\Video16_If3C.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video16_If3C\bin\Debug\net5.0\Video16_If3C.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video16_If3C\bin\Debug\net5.0\Video16_If3C.dll
+C:\Users\Usuario\source\repos\Video16_If3C\bin\Debug\net5.0\ref\Video16_If3C.dll
+C:\Users\Usuario\source\repos\Video16_If3C\bin\Debug\net5.0\Video16_If3C.pdb
+C:\Users\Usuario\source\repos\Video16_If3C\obj\Debug\net5.0\Video16_If3C.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video16_If3C\obj\Debug\net5.0\Video16_If3C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video16_If3C\obj\Debug\net5.0\Video16_If3C.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video16_If3C\obj\Debug\net5.0\Video16_If3C.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video16_If3C\obj\Debug\net5.0\Video16_If3C.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video16_If3C\obj\Debug\net5.0\Video16_If3C.dll
+C:\Users\Usuario\source\repos\Video16_If3C\obj\Debug\net5.0\ref\Video16_If3C.dll
+C:\Users\Usuario\source\repos\Video16_If3C\obj\Debug\net5.0\Video16_If3C.pdb
+C:\Users\Usuario\source\repos\Video16_If3C\obj\Debug\net5.0\Video16_If3C.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Video84_ComboBox\bin\Debug\Video84_ComboBox.exe.config
+C:\Users\Usuario\source\repos\Video84_ComboBox\bin\Debug\Video84_ComboBox.exe
+C:\Users\Usuario\source\repos\Video84_ComboBox\bin\Debug\Video84_ComboBox.pdb
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\Video84_ComboBox.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\Video84_ComboBox_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\Video84_ComboBox_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\Video84_ComboBox.g.resources
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\Video84_ComboBox.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\Video84_ComboBox.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\Video84_ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\Video84_ComboBox.exe
+C:\Users\Usuario\source\repos\Video84_ComboBox\obj\Debug\Video84_ComboBox.pdb

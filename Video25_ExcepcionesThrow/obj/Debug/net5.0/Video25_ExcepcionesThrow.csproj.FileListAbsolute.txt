@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\bin\Debug\net5.0\Video25_ExcepcionesThrow.exe
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\bin\Debug\net5.0\Video25_ExcepcionesThrow.deps.json
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\bin\Debug\net5.0\Video25_ExcepcionesThrow.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\bin\Debug\net5.0\Video25_ExcepcionesThrow.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\bin\Debug\net5.0\Video25_ExcepcionesThrow.dll
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\bin\Debug\net5.0\ref\Video25_ExcepcionesThrow.dll
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\bin\Debug\net5.0\Video25_ExcepcionesThrow.pdb
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\obj\Debug\net5.0\Video25_ExcepcionesThrow.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\obj\Debug\net5.0\Video25_ExcepcionesThrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\obj\Debug\net5.0\Video25_ExcepcionesThrow.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\obj\Debug\net5.0\Video25_ExcepcionesThrow.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\obj\Debug\net5.0\Video25_ExcepcionesThrow.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\obj\Debug\net5.0\Video25_ExcepcionesThrow.dll
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\obj\Debug\net5.0\ref\Video25_ExcepcionesThrow.dll
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\obj\Debug\net5.0\Video25_ExcepcionesThrow.pdb
+C:\Users\Usuario\source\repos\Video25_ExcepcionesThrow\obj\Debug\net5.0\Video25_ExcepcionesThrow.genruntimeconfig.cache

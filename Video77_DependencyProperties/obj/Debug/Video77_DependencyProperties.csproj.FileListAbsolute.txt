@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\bin\Debug\Video77_DependencyProperties.exe.config
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\bin\Debug\Video77_DependencyProperties.exe
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\bin\Debug\Video77_DependencyProperties.pdb
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\Video77_DependencyProperties_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\Video77_DependencyProperties_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\Video77_DependencyProperties.g.resources
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\Video77_DependencyProperties.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\Video77_DependencyProperties.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\Video77_DependencyProperties.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\Video77_DependencyProperties.exe
+C:\Users\Usuario\source\repos\Video77_DependencyProperties\obj\Debug\Video77_DependencyProperties.pdb

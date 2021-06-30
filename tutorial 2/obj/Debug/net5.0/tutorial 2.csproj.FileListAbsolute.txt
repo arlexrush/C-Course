@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\tutorial 2\bin\Debug\net5.0\tutorial 2.exe
+C:\Users\Usuario\source\repos\tutorial 2\bin\Debug\net5.0\tutorial 2.deps.json
+C:\Users\Usuario\source\repos\tutorial 2\bin\Debug\net5.0\tutorial 2.runtimeconfig.json
+C:\Users\Usuario\source\repos\tutorial 2\bin\Debug\net5.0\tutorial 2.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\tutorial 2\bin\Debug\net5.0\tutorial 2.dll
+C:\Users\Usuario\source\repos\tutorial 2\bin\Debug\net5.0\ref\tutorial 2.dll
+C:\Users\Usuario\source\repos\tutorial 2\bin\Debug\net5.0\tutorial 2.pdb
+C:\Users\Usuario\source\repos\tutorial 2\obj\Debug\net5.0\tutorial 2.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\tutorial 2\obj\Debug\net5.0\tutorial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\tutorial 2\obj\Debug\net5.0\tutorial 2.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\tutorial 2\obj\Debug\net5.0\tutorial 2.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\tutorial 2\obj\Debug\net5.0\tutorial 2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\tutorial 2\obj\Debug\net5.0\tutorial 2.dll
+C:\Users\Usuario\source\repos\tutorial 2\obj\Debug\net5.0\ref\tutorial 2.dll
+C:\Users\Usuario\source\repos\tutorial 2\obj\Debug\net5.0\tutorial 2.pdb
+C:\Users\Usuario\source\repos\tutorial 2\obj\Debug\net5.0\tutorial 2.genruntimeconfig.cache

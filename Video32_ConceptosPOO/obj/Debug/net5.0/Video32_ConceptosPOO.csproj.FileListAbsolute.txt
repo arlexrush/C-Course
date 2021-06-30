@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\bin\Debug\net5.0\Video32_ConceptosPOO.exe
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\bin\Debug\net5.0\Video32_ConceptosPOO.deps.json
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\bin\Debug\net5.0\Video32_ConceptosPOO.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\bin\Debug\net5.0\Video32_ConceptosPOO.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\bin\Debug\net5.0\Video32_ConceptosPOO.dll
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\bin\Debug\net5.0\ref\Video32_ConceptosPOO.dll
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\bin\Debug\net5.0\Video32_ConceptosPOO.pdb
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\obj\Debug\net5.0\Video32_ConceptosPOO.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\obj\Debug\net5.0\Video32_ConceptosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\obj\Debug\net5.0\Video32_ConceptosPOO.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\obj\Debug\net5.0\Video32_ConceptosPOO.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\obj\Debug\net5.0\Video32_ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\obj\Debug\net5.0\Video32_ConceptosPOO.dll
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\obj\Debug\net5.0\ref\Video32_ConceptosPOO.dll
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\obj\Debug\net5.0\Video32_ConceptosPOO.pdb
+C:\Users\Usuario\source\repos\Video32_ConceptosPOO\obj\Debug\net5.0\Video32_ConceptosPOO.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Video61_GENERICO2/1.0.0": {
+        "runtime": {
+          "Video61_GENERICO2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video61_GENERICO2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

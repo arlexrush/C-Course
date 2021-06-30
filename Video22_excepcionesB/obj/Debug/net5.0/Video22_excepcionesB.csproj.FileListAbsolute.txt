@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video22_excepcionesB\bin\Debug\net5.0\Video22_excepcionesB.exe
+C:\Users\Usuario\source\repos\Video22_excepcionesB\bin\Debug\net5.0\Video22_excepcionesB.deps.json
+C:\Users\Usuario\source\repos\Video22_excepcionesB\bin\Debug\net5.0\Video22_excepcionesB.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video22_excepcionesB\bin\Debug\net5.0\Video22_excepcionesB.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video22_excepcionesB\bin\Debug\net5.0\Video22_excepcionesB.dll
+C:\Users\Usuario\source\repos\Video22_excepcionesB\bin\Debug\net5.0\ref\Video22_excepcionesB.dll
+C:\Users\Usuario\source\repos\Video22_excepcionesB\bin\Debug\net5.0\Video22_excepcionesB.pdb
+C:\Users\Usuario\source\repos\Video22_excepcionesB\obj\Debug\net5.0\Video22_excepcionesB.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video22_excepcionesB\obj\Debug\net5.0\Video22_excepcionesB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video22_excepcionesB\obj\Debug\net5.0\Video22_excepcionesB.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video22_excepcionesB\obj\Debug\net5.0\Video22_excepcionesB.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video22_excepcionesB\obj\Debug\net5.0\Video22_excepcionesB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video22_excepcionesB\obj\Debug\net5.0\Video22_excepcionesB.dll
+C:\Users\Usuario\source\repos\Video22_excepcionesB\obj\Debug\net5.0\ref\Video22_excepcionesB.dll
+C:\Users\Usuario\source\repos\Video22_excepcionesB\obj\Debug\net5.0\Video22_excepcionesB.pdb
+C:\Users\Usuario\source\repos\Video22_excepcionesB\obj\Debug\net5.0\Video22_excepcionesB.genruntimeconfig.cache

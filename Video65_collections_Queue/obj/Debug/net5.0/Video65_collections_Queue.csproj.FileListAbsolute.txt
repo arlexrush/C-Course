@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video65_collections_Queue\bin\Debug\net5.0\Video65_collections_Queue.exe
+C:\Users\Usuario\source\repos\Video65_collections_Queue\bin\Debug\net5.0\Video65_collections_Queue.deps.json
+C:\Users\Usuario\source\repos\Video65_collections_Queue\bin\Debug\net5.0\Video65_collections_Queue.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video65_collections_Queue\bin\Debug\net5.0\Video65_collections_Queue.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video65_collections_Queue\bin\Debug\net5.0\Video65_collections_Queue.dll
+C:\Users\Usuario\source\repos\Video65_collections_Queue\bin\Debug\net5.0\ref\Video65_collections_Queue.dll
+C:\Users\Usuario\source\repos\Video65_collections_Queue\bin\Debug\net5.0\Video65_collections_Queue.pdb
+C:\Users\Usuario\source\repos\Video65_collections_Queue\obj\Debug\net5.0\Video65_collections_Queue.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Video65_collections_Queue\obj\Debug\net5.0\Video65_collections_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video65_collections_Queue\obj\Debug\net5.0\Video65_collections_Queue.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video65_collections_Queue\obj\Debug\net5.0\Video65_collections_Queue.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video65_collections_Queue\obj\Debug\net5.0\Video65_collections_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video65_collections_Queue\obj\Debug\net5.0\Video65_collections_Queue.dll
+C:\Users\Usuario\source\repos\Video65_collections_Queue\obj\Debug\net5.0\ref\Video65_collections_Queue.dll
+C:\Users\Usuario\source\repos\Video65_collections_Queue\obj\Debug\net5.0\Video65_collections_Queue.pdb
+C:\Users\Usuario\source\repos\Video65_collections_Queue\obj\Debug\net5.0\Video65_collections_Queue.genruntimeconfig.cache
