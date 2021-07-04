@@ -8,7 +8,20 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="Clientes" HorizontalAlignment="Left" Height="41" Margin="63,45,0,0" VerticalAlignment="Top" Width="187" FontSize="18" FontWeight="Bold"/>
-        <ListBox Name="listaClientes" HorizontalAlignment="Left" Height="271" Margin="63,86,0,0" VerticalAlignment="Top" Width="252"/>
+        <ListBox Name="listaClientes" HorizontalAlignment="Left" Height="89" Margin="63,86,0,0" VerticalAlignment="Top" Width="174" MouseDoubleClick="listaClientes_MouseDoubleClick"/>
+
+        <Label Content="Pedidos por Cliente" HorizontalAlignment="Left" Height="41" Margin="255,45,0,0" VerticalAlignment="Top" Width="187" FontSize="18" FontWeight="Bold" RenderTransformOrigin="0.492,0.561"/>
+        <ListBox Name="pedidosCliente" HorizontalAlignment="Left" Height="89" Margin="255,86,0,0" VerticalAlignment="Top" Width="198" RenderTransformOrigin="-0.218,0.446"/>
+
+        <Label Content="Total Pedidos" HorizontalAlignment="Left" Height="41" Margin="550,45,0,0" VerticalAlignment="Top" Width="187" FontSize="18" FontWeight="Bold" RenderTransformOrigin="0.492,0.561"/>
+        <ListBox Name="todosPedidos" HorizontalAlignment="Left" Height="271" Margin="512,86,0,0" VerticalAlignment="Top" Width="257" RenderTransformOrigin="-0.218,0.446"/>
+        <Button Content="DELETE" HorizontalAlignment="Left" Height="34" Margin="661,362,0,0" VerticalAlignment="Top" Width="108" Click="Button_Click"/>
+        
+        <Button Content="Insertar" HorizontalAlignment="Left" Height="28" Margin="63,299,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click_2"/>
+        <TextBox Name="InsertarClientes" HorizontalAlignment="Left" Height="29" Margin="63,265,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="174"/>
+        <Button Content="Borrar" HorizontalAlignment="Left" Height="28" Margin="163,299,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click_1"/>
+        <Button Content="Actualizar" HorizontalAlignment="Left" Height="28" Margin="272,299,0,0" VerticalAlignment="Top" Width="170" Click="Button_Click_3"/>
+
 
     </Grid>
 </Window>

@@ -1,7 +1,6 @@
 C:\Users\Usuario\source\repos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.exe.config
 C:\Users\Usuario\source\repos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.exe
 C:\Users\Usuario\source\repos\ConexionGestionPedidos\bin\Debug\ConexionGestionPedidos.pdb
-C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csprojAssemblyReference.cache
 C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\MainWindow.g.cs
 C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\App.g.cs
 C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos_MarkupCompile.cache
@@ -13,3 +12,6 @@ C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\ConexionGestionPe
 C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.exe
 C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.pdb
+C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\ConexionGestionPedidos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\Actualiza.g.cs
+C:\Users\Usuario\source\repos\ConexionGestionPedidos\obj\Debug\Actualiza.baml

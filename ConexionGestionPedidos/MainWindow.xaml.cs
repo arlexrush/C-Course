@@ -30,25 +30,153 @@ namespace ConexionGestionPedidos
 
             miConexionSql = new SqlConnection(miConexion);
             MuestraClientes();
+            MuestraTodos();
+            
         }
 
         private void MuestraClientes()
         {
-            string consulta = "SELECT * FROM CLIENTE";
-
-            SqlDataAdapter miAdaptadorSql = new SqlDataAdapter(consulta, miConexionSql);
-
-            using (miAdaptadorSql)
+            try
             {
-                DataTable clientesTabla = new DataTable();
-                miAdaptadorSql.Fill(clientesTabla);
+                string consulta = "SELECT * FROM CLIENTE";
 
-                listaClientes.DisplayMemberPath = "nombre";
-                listaClientes.SelectedValuePath = "Id";
-                listaClientes.ItemsSource = clientesTabla.DefaultView;
+                SqlDataAdapter miAdaptadorSql = new SqlDataAdapter(consulta, miConexionSql);
+
+                using (miAdaptadorSql)
+                {
+                    DataTable clientesTabla = new DataTable();
+                    miAdaptadorSql.Fill(clientesTabla);
+
+                    listaClientes.DisplayMemberPath = "nombre";
+                    listaClientes.SelectedValuePath = "Id";
+                    listaClientes.ItemsSource = clientesTabla.DefaultView;
+                }
             }
+            catch(Exception e)
+            {
+                MessageBox.Show(e.ToString());
+            }
+            
+        }
+
+        private void MuestraPedidos()
+        {
+            try
+            {
+                string consulta = "SELECT * FROM PEDIDO P INNER JOIN CLIENTE C ON C.ID=P.cCliente " +
+                "WHERE C.ID=@clienteId"; // esto es una consulta parametrica SQL, la parte despues del + es el parametro, éste es antecedido por una @
+
+                SqlCommand sqlComando = new SqlCommand(consulta, miConexionSql);
+
+                SqlDataAdapter miAdaptadorSql = new SqlDataAdapter(sqlComando);
+
+                using (miAdaptadorSql)
+                {
+                    sqlComando.Parameters.AddWithValue("@clienteId", listaClientes.SelectedValue);
+                    DataTable pedidosTabla = new DataTable();
+                    miAdaptadorSql.Fill(pedidosTabla);
+
+                    pedidosCliente.DisplayMemberPath = "fechaPedido";
+                    pedidosCliente.SelectedValuePath = "Id";
+                    pedidosCliente.ItemsSource = pedidosTabla.DefaultView;
+                }
+            }catch(Exception e)
+            {
+                MessageBox.Show(e.ToString());
+            }
+            
+        }
+
+        private void MuestraTodos()
+        {
+            try
+            {
+                string consulta = "SELECT *,  CONCAT('',cCliente,'     ',fechaPedido,'    ',formaPago) AS TODOINFOPEDIDO FROM PEDIDO";
+
+                SqlDataAdapter miAdaptadorSql = new SqlDataAdapter(consulta, miConexionSql);
+
+                using (miAdaptadorSql)
+                {
+                    DataTable todosPedidoTabla = new DataTable();
+                    miAdaptadorSql.Fill(todosPedidoTabla);
+
+                    todosPedidos.DisplayMemberPath = "TODOINFOPEDIDO";
+                    todosPedidos.SelectedValuePath = "Id";
+                    todosPedidos.ItemsSource = todosPedidoTabla.DefaultView;
+                }
+            }catch(Exception e)
+            {
+                MessageBox.Show(e.ToString());
+            }
+            
+
         }
 
         SqlConnection miConexionSql;
+
+        /*private void listaClientes_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            //MessageBox.Show("Has hecho click en un cliente");
+            MuestraPedidos();
+
+        }*/
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            //MessageBox.Show(todosPedidos.SelectedValue.ToString());
+            string consulta = "DELETE FROM PEDIDO WHERE ID=@PEDIDOID";
+
+            SqlCommand sqlComando = new SqlCommand(consulta, miConexionSql);
+
+            miConexionSql.Open();
+
+            sqlComando.Parameters.AddWithValue("@PEDIDOID", todosPedidos.SelectedValue);
+            sqlComando.ExecuteNonQuery();
+
+            miConexionSql.Close();
+            MuestraTodos(); // para refrescar el listbox
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            string consulta = "DELETE FROM CLIENTE WHERE ID=@CLIENTEID";
+
+            SqlCommand sqlComando = new SqlCommand(consulta, miConexionSql);
+
+            miConexionSql.Open();
+
+            sqlComando.Parameters.AddWithValue("@CLIENTEID", listaClientes.SelectedValue);
+            sqlComando.ExecuteNonQuery();
+
+            miConexionSql.Close();
+            MuestraClientes(); // para refrescar el listbox
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            string consulta = "INSERT INTO CLIENTE (nombre) VALUES (@nombre)";
+
+            SqlCommand sqlComando = new SqlCommand(consulta, miConexionSql);
+
+            miConexionSql.Open();
+
+            sqlComando.Parameters.AddWithValue("@nombre", InsertarClientes.Text);
+            sqlComando.ExecuteNonQuery();
+
+            miConexionSql.Close();
+            MuestraClientes(); // para refrescar el listbox
+            InsertarClientes.Text = "";
+        }
+
+        private void listaClientes_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            MuestraPedidos();
+        }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            Actualiza VentanaActualizar = new Actualiza();
+            VentanaActualizar.Show();
+        }
     }
 }
