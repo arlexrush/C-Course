@@ -9,6 +9,7 @@
     <Grid>
         <TextBox Name="cuadroActualiza" HorizontalAlignment="Left" Height="28" Margin="140,24,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="163"/>
         <Label Content="Nombre del Cliente:" HorizontalAlignment="Left" Height="28" Margin="10,24,0,0" VerticalAlignment="Top" Width="125"/>
+        <Button Content="Actualizar" HorizontalAlignment="Left" Height="21" Margin="156,72,0,0" VerticalAlignment="Top" Width="119" Click="Button_Click"/>
 
     </Grid>
 </Window>

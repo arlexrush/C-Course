@@ -175,8 +175,41 @@ namespace ConexionGestionPedidos
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
-            Actualiza VentanaActualizar = new Actualiza();
-            VentanaActualizar.Show();
+            Actualiza VentanaActualizar = new Actualiza((int)listaClientes.SelectedValue);
+            
+
+            try
+            {
+                string consulta = "SELECT nombre FROM CLIENTE WHERE Id=@ClId";
+
+                SqlCommand misqlComando = new SqlCommand(consulta, miConexionSql);
+
+                SqlDataAdapter miAdaptadorSql = new SqlDataAdapter(misqlComando);
+
+                using (miAdaptadorSql)
+                {
+                    misqlComando.Parameters.AddWithValue("@ClId", listaClientes.SelectedValue);
+                                       
+                    DataTable clientesTabla = new DataTable();
+                    miAdaptadorSql.Fill(clientesTabla);
+
+                    VentanaActualizar.cuadroActualiza.Text = clientesTabla.Rows[0]["nombre"].ToString();
+
+                    
+                }
+            }
+            catch (Exception e2)
+            {
+                MessageBox.Show(e2.ToString());
+            }
+
+            VentanaActualizar.ShowDialog();
+           
+        }
+
+        private void Window_Activated(object sender, EventArgs e)
+        {
+            MuestraClientes();
         }
     }
 }
