@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Video110_Threads\bin\Debug\Video110_Threads.exe.config
+C:\Users\Usuario\source\repos\Video110_Threads\bin\Debug\Video110_Threads.exe
+C:\Users\Usuario\source\repos\Video110_Threads\bin\Debug\Video110_Threads.pdb
+C:\Users\Usuario\source\repos\Video110_Threads\obj\Debug\Video110_Threads.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Video110_Threads\obj\Debug\Video110_Threads.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video110_Threads\obj\Debug\Video110_Threads.exe
+C:\Users\Usuario\source\repos\Video110_Threads\obj\Debug\Video110_Threads.pdb

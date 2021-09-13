@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Video_113_TASK/1.0.0": {
+        "runtime": {
+          "Video_113_TASK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video_113_TASK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

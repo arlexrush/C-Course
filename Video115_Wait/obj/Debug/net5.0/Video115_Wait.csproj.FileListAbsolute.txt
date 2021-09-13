@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video115_Wait\bin\Debug\net5.0\Video115_Wait.exe
+C:\Users\Usuario\source\repos\Video115_Wait\bin\Debug\net5.0\Video115_Wait.deps.json
+C:\Users\Usuario\source\repos\Video115_Wait\bin\Debug\net5.0\Video115_Wait.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video115_Wait\bin\Debug\net5.0\Video115_Wait.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video115_Wait\bin\Debug\net5.0\Video115_Wait.dll
+C:\Users\Usuario\source\repos\Video115_Wait\bin\Debug\net5.0\ref\Video115_Wait.dll
+C:\Users\Usuario\source\repos\Video115_Wait\bin\Debug\net5.0\Video115_Wait.pdb
+C:\Users\Usuario\source\repos\Video115_Wait\obj\Debug\net5.0\Video115_Wait.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Video115_Wait\obj\Debug\net5.0\Video115_Wait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video115_Wait\obj\Debug\net5.0\Video115_Wait.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video115_Wait\obj\Debug\net5.0\Video115_Wait.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video115_Wait\obj\Debug\net5.0\Video115_Wait.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video115_Wait\obj\Debug\net5.0\Video115_Wait.dll
+C:\Users\Usuario\source\repos\Video115_Wait\obj\Debug\net5.0\ref\Video115_Wait.dll
+C:\Users\Usuario\source\repos\Video115_Wait\obj\Debug\net5.0\Video115_Wait.pdb
+C:\Users\Usuario\source\repos\Video115_Wait\obj\Debug\net5.0\Video115_Wait.genruntimeconfig.cache

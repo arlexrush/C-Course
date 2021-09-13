@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\bin\Debug\Video103_CRUD_LINQ.exe.config
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\bin\Debug\Video103_CRUD_LINQ.exe
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\bin\Debug\Video103_CRUD_LINQ.pdb
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\Video103_CRUD_LINQ.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\App.g.cs
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\Video103_CRUD_LINQ_MarkupCompile.cache
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\Video103_CRUD_LINQ_MarkupCompile.lref
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\Video103_CRUD_LINQ.g.resources
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\Video103_CRUD_LINQ.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\Video103_CRUD_LINQ.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\Video103_CRUD_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\Video103_CRUD_LINQ.exe
+C:\Users\Usuario\source\repos\Video103_CRUD_LINQ\obj\Debug\Video103_CRUD_LINQ.pdb

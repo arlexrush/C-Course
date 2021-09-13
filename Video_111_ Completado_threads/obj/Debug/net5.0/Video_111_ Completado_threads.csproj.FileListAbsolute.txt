@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\bin\Debug\net5.0\Video_111_ Completado_threads.exe
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\bin\Debug\net5.0\Video_111_ Completado_threads.deps.json
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\bin\Debug\net5.0\Video_111_ Completado_threads.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\bin\Debug\net5.0\Video_111_ Completado_threads.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\bin\Debug\net5.0\Video_111_ Completado_threads.dll
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\bin\Debug\net5.0\ref\Video_111_ Completado_threads.dll
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\bin\Debug\net5.0\Video_111_ Completado_threads.pdb
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\obj\Debug\net5.0\Video_111_ Completado_threads.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\obj\Debug\net5.0\Video_111_ Completado_threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\obj\Debug\net5.0\Video_111_ Completado_threads.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\obj\Debug\net5.0\Video_111_ Completado_threads.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\obj\Debug\net5.0\Video_111_ Completado_threads.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\obj\Debug\net5.0\Video_111_ Completado_threads.dll
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\obj\Debug\net5.0\ref\Video_111_ Completado_threads.dll
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\obj\Debug\net5.0\Video_111_ Completado_threads.pdb
+C:\Users\Usuario\source\repos\Video_111_ Completado_threads\obj\Debug\net5.0\Video_111_ Completado_threads.genruntimeconfig.cache

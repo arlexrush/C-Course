@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video_113_TASK\bin\Debug\net5.0\Video_113_TASK.exe
+C:\Users\Usuario\source\repos\Video_113_TASK\bin\Debug\net5.0\Video_113_TASK.deps.json
+C:\Users\Usuario\source\repos\Video_113_TASK\bin\Debug\net5.0\Video_113_TASK.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video_113_TASK\bin\Debug\net5.0\Video_113_TASK.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video_113_TASK\bin\Debug\net5.0\Video_113_TASK.dll
+C:\Users\Usuario\source\repos\Video_113_TASK\bin\Debug\net5.0\ref\Video_113_TASK.dll
+C:\Users\Usuario\source\repos\Video_113_TASK\bin\Debug\net5.0\Video_113_TASK.pdb
+C:\Users\Usuario\source\repos\Video_113_TASK\obj\Debug\net5.0\Video_113_TASK.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Video_113_TASK\obj\Debug\net5.0\Video_113_TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video_113_TASK\obj\Debug\net5.0\Video_113_TASK.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video_113_TASK\obj\Debug\net5.0\Video_113_TASK.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video_113_TASK\obj\Debug\net5.0\Video_113_TASK.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video_113_TASK\obj\Debug\net5.0\Video_113_TASK.dll
+C:\Users\Usuario\source\repos\Video_113_TASK\obj\Debug\net5.0\ref\Video_113_TASK.dll
+C:\Users\Usuario\source\repos\Video_113_TASK\obj\Debug\net5.0\Video_113_TASK.pdb
+C:\Users\Usuario\source\repos\Video_113_TASK\obj\Debug\net5.0\Video_113_TASK.genruntimeconfig.cache

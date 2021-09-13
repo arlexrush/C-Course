@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\Video100_LINQ\bin\Debug\net5.0\Video100_LINQ.exe
+C:\Users\Usuario\source\repos\Video100_LINQ\bin\Debug\net5.0\Video100_LINQ.deps.json
+C:\Users\Usuario\source\repos\Video100_LINQ\bin\Debug\net5.0\Video100_LINQ.runtimeconfig.json
+C:\Users\Usuario\source\repos\Video100_LINQ\bin\Debug\net5.0\Video100_LINQ.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Video100_LINQ\bin\Debug\net5.0\Video100_LINQ.dll
+C:\Users\Usuario\source\repos\Video100_LINQ\bin\Debug\net5.0\ref\Video100_LINQ.dll
+C:\Users\Usuario\source\repos\Video100_LINQ\bin\Debug\net5.0\Video100_LINQ.pdb
+C:\Users\Usuario\source\repos\Video100_LINQ\obj\Debug\net5.0\Video100_LINQ.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Video100_LINQ\obj\Debug\net5.0\Video100_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Video100_LINQ\obj\Debug\net5.0\Video100_LINQ.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Video100_LINQ\obj\Debug\net5.0\Video100_LINQ.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Video100_LINQ\obj\Debug\net5.0\Video100_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Video100_LINQ\obj\Debug\net5.0\Video100_LINQ.dll
+C:\Users\Usuario\source\repos\Video100_LINQ\obj\Debug\net5.0\ref\Video100_LINQ.dll
+C:\Users\Usuario\source\repos\Video100_LINQ\obj\Debug\net5.0\Video100_LINQ.pdb
+C:\Users\Usuario\source\repos\Video100_LINQ\obj\Debug\net5.0\Video100_LINQ.genruntimeconfig.cache
