@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\bin\Debug\net5.0\Swap.Domain.deps.json
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\bin\Debug\net5.0\Swap.Domain.dll
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\bin\Debug\net5.0\ref\Swap.Domain.dll
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\bin\Debug\net5.0\Swap.Domain.pdb
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\obj\Debug\net5.0\Swap.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\obj\Debug\net5.0\Swap.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\obj\Debug\net5.0\Swap.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\obj\Debug\net5.0\Swap.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\obj\Debug\net5.0\Swap.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\obj\Debug\net5.0\Swap.Domain.dll
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\obj\Debug\net5.0\ref\Swap.Domain.dll
+C:\Users\Usuario\source\repos\CloudAhead.Bank\ClaudAhead.Swap\Swap.Domain\obj\Debug\net5.0\Swap.Domain.pdb

@@ -1,0 +1,15 @@
+<h1 mat-dialong-title>{{cliente != null ? 'Editar Cliente':'Agregar Cliente'}}</h1>
+
+<div mat-dialong-content>
+    <mat-form-field>
+         <mat-label>
+            Nombre:
+        </mat-label>
+        <input matInput [(ngModel)]="nombre">           
+    </mat-form-field>
+</div>
+
+<div>
+    <button mat-raised-button color="primary" (click)="cliente !== null ? editClientes() : addClientes()">Aceptar</button>
+    <button mat-raised-button (click)="close()">Cancelar</button>
+</div>

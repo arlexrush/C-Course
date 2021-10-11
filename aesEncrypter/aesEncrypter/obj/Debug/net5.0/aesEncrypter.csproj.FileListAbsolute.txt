@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\obj\Debug\net5.0\aesEncrypter.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\obj\Debug\net5.0\aesEncrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\obj\Debug\net5.0\aesEncrypter.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\obj\Debug\net5.0\aesEncrypter.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\obj\Debug\net5.0\aesEncrypter.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\bin\Debug\net5.0\aesEncrypter.exe
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\bin\Debug\net5.0\aesEncrypter.deps.json
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\bin\Debug\net5.0\aesEncrypter.runtimeconfig.json
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\bin\Debug\net5.0\aesEncrypter.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\bin\Debug\net5.0\aesEncrypter.dll
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\bin\Debug\net5.0\ref\aesEncrypter.dll
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\bin\Debug\net5.0\aesEncrypter.pdb
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\obj\Debug\net5.0\aesEncrypter.dll
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\obj\Debug\net5.0\ref\aesEncrypter.dll
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\obj\Debug\net5.0\aesEncrypter.pdb
+C:\Users\Usuario\source\repos\aesEncrypter\aesEncrypter\obj\Debug\net5.0\aesEncrypter.genruntimeconfig.cache
